@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>   
+<title>welcome to portfolio</title>
+<style>
+    body{
+        font-family:Arial;
+        background:pink;
+        color:black;
+        text-align:center;
+    }
+</style>
+  <center>
+  <h1 style="color:blue;">WELCOME TO MY PORTFOLIO</h1>
+  <img src="/home/admin123/Pictures/index.jpeg">
+   <h1> ABOUT IN MYSELF</h1>
+  </h1>
+  <body>
+<h1>portfolio</h2>
+    <p>Hello,I'm Abhipsa Moharana from Odisha.<br>
+       My father's name is Ranjan kumar Moharana <br>
+       and mother's name Pratima Moharana.I have <br>
+       graduation completed from Dharmasala Mahavidyalaya.I like<br>
+       singing a song.My hobbies are painting,anytime listening <br>
+       music,watching tv,reading magazine and story book.</p>     
+    <div class="info":>
+    <h1> Contact No.</h1>
+    <b>Name:</b>Abhipsa Moharana<br>
+    <b> E-Mail ID:</b>amoharana1609@gmail.com<br><br>
+    <b>Phone:</b>9583838949<br>
+    <b>Qualification:</b>+2sc,+3arts and PGDCA completed;</b>
+    </div>
+    <br>
+ </center>
+</html>
+</body>
